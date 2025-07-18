@@ -90,4 +90,10 @@ nav {
     width: 200px;
     height: 100px;
   }
-  
+
+.resultBox {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
